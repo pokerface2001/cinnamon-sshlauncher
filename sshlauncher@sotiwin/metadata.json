@@ -1,6 +1,6 @@
 {
-"uuid": "sshlauncher@sotiwin",
-"name": "SSH Launcher (fixed)",
-"description": "Updated to work on Linux Mint 17. An applet to connect to SSH hosts configured in ~/.ssh/config",
+"uuid": "sshlauncher@sgoetsch",
+"name": "SSH Launcher (with submenus)",
+"description": "An applet to connect to SSH hosts configured in ~/.ssh/config. Fork of tiborsomodi/cinnamon-sshlauncher. Creates submenus from comments in .ssh/config.",
 "icon": "network"
 }
